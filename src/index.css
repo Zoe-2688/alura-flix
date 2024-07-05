@@ -1,0 +1,15 @@
+:root {
+  --font: Roboto Condensed, sans-serif; /* Usar Roboto Condensed en lugar de Roboto */
+  --blanco: #fff;
+  --negro: #222;
+  --dark-gray: #0f0e0e;
+}
+
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

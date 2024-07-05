@@ -1,0 +1,85 @@
+{
+    "videos": [
+      {
+        "id": 0,
+        "titulo": "Cuándo usar let, var y const?",
+        "link": "https://www.youtube.com/embed/PztCEdIJITY",
+        "capa": "/img/FrontEnd 1.png",
+        "categoria": "FrontEnd"
+      },
+      {
+        "id": 1,
+        "titulo": "¿Qué es JavaScript?",
+        "link": "https://www.youtube.com/embed/GJfOSoaXk4s",
+        "capa": "/img/FrontEnd 2.png",
+        "categoria": "FrontEnd"
+      },
+      {
+        "id": 2,
+        "titulo": "Equipo Front End",
+        "link": "https://www.youtube.com/embed/rpvrLaBQwgg",
+        "capa": "/img/FrontEnd 3.png",
+        "categoria": "FrontEnd"
+      },
+      {
+        "id": 3,
+        "titulo": "Spring Framework. ¿Qué es?",
+        "link": "https://www.youtube.com/embed/t-iqt1b2qqk",
+        "capa": "/img/BackEnd 1.png",
+        "categoria": "BackEnd"
+      },
+      {
+        "id": 4,
+        "titulo": "¿Qué es SQL y NoSQL?",
+        "link": "https://www.youtube.com/embed/cLLKVd5CNLc",
+        "capa": "/img/BackEnd 2.png",
+        "categoria": "BackEnd"
+      },
+      {
+        "id": 5,
+        "titulo": "Simplificando tu código en Java: Conoce los enum",
+        "link": "https://www.youtube.com/embed/EoPvlE85XAQ",
+        "capa": "/img/BackEnd 3.png",
+        "categoria": "BackEnd"
+      },
+      {
+        "id": 6,
+        "titulo": "¿Qué son las Soft Skills?",
+        "link": "https://www.youtube.com/embed/vhwspfvI52k",
+        "capa": "/img/InnovacionGestion 1.png",
+        "categoria": "InnovacionGestion"
+      },
+      {
+        "id": 7,
+        "titulo": "7 Soft Skills más demandadas de 2024",
+        "link": "https://www.youtube.com/embed/_-9grhDhxiU",
+        "capa": "/img/InnovacionGestion 2.png",
+        "categoria": "InnovacionGestion"
+      },
+      {
+        "id": 8,
+        "titulo": "¿Qué son las metodologías ágiles?",
+        "link": "https://www.youtube.com/embed/6N3OkLCfK-0",
+        "capa": "/img/InnovacionGestion 3.png",
+        "categoria": "InnovacionGestion"
+      },
+      {
+        "id": 9,
+        "titulo": "Consejos para crear tu Portfolio",
+        "link": "https://www.youtube.com/embed/lKaXteKYbSA",
+        "categoria": "Consejos"
+      },
+      {
+        "id": 10,
+        "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti!",
+        "link": "https://www.youtube.com/embed/QjOWz9avkg8",
+        "categoria": "Consejos"
+      },
+      {
+        "id": 11,
+        "titulo": "Técnicas para mejorar tu aprendizaje",
+        "categoria": "Consejos"
+      }
+    ]
+  }
+  
